@@ -1,7 +1,7 @@
 To get started:
 
 ```bash
-unzip mnist_test.csv.unzip
+unzip mnist_test.csv.zip
 unzip mnist_train.csv.zip
 ```
 
