@@ -1,0 +1,16 @@
+[project]
+name = "optimisation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Andrew Platt", email = "andrew.platt@eng.ox.ac.uk" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "cvxpy>=1.9.3",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+]
+
